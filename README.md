@@ -27,7 +27,7 @@ Architecture → Infrastructure → Engineering → Automation → Security → 
 
 ## 🎯 Verified Project Record (Result → Challenge → Contribution → Delivery)
 
-* **RESULT**: I engineered and launched a cohesive, dynamic on-air visual identity for a 24/7 sports and gaming broadcast channel on OpenView HD.
+* **RESULT**: I engineered and launched a cohesive, dynamic on-air visual identity for a 24/7 sports and gaming broadcast channel on OVHD.
 * **CHALLENGE**: I created an expansive suite of motion graphics, lower thirds, programme intros, and daily promo templates with rapid turnaround requirements.
 * **CONTRIBUTION**: I designed the broadcast identity package, produced animated title sequences, and established offline editing pipelines for ongoing programming.
 * **DELIVERY**: I delivered a complete channel broadcast package: station IDs, bugs, line-up menus, transitions, and automated rundown graphics.
@@ -49,14 +49,14 @@ In strict accordance with my professional transparency principles:
 ## 🏗️ Cloud & Pipeline Architecture Diagrams
 
 ### 1. AWS Cloud Infrastructure Architecture
-![AWS Cloud Architecture](diagrams/architecture.svg)
+![AWS Cloud Architecture](diagrams/architecture.png)
 *Figure 1: My AWS reference architecture, featuring KMS envelope encryption, Lambda event-driven transcoding, and role-based IAM access control.*  
-*(Source files: [`diagrams/architecture.svg`](diagrams/architecture.svg) | [`diagrams/architecture.png`](diagrams/architecture.png) | [`diagrams/architecture.excalidraw`](diagrams/architecture.excalidraw))*
+*(Source files: [`diagrams/architecture.png`](diagrams/architecture.png) | [`diagrams/architecture.svg`](diagrams/architecture.svg) | [`diagrams/architecture.excalidraw`](diagrams/architecture.excalidraw))*
 
 ### 2. End-to-End Production Pipeline Model
-![Production Pipeline Model](diagrams/workflow.svg)
+![Production Pipeline Model](diagrams/workflow.png)
 *Figure 2: The complete media lifecycle I engineer — from on-set capture and cloud ingest through colour finishing, technical QC, and Glacier archiving.*  
-*(Source files: [`diagrams/workflow.svg`](diagrams/workflow.svg) | [`diagrams/workflow.png`](diagrams/workflow.png) | [`diagrams/workflow.excalidraw`](diagrams/workflow.excalidraw))*
+*(Source files: [`diagrams/workflow.png`](diagrams/workflow.png) | [`diagrams/workflow.svg`](diagrams/workflow.svg) | [`diagrams/workflow.excalidraw`](diagrams/workflow.excalidraw))*
 
 ---
 
